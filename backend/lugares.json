@@ -1,0 +1,142 @@
+{
+    "lugares": [
+        {
+            "categoria": "Playa",
+            "nombre": "Playa del Carmen",
+            "lat": 20.6296,
+            "lng": -87.0739
+        },
+        {
+            "categoria": "Playa",
+            "nombre": "Cancún",
+            "lat": 21.1619,
+            "lng": -86.8515
+        },
+        {
+            "categoria": "Playa",
+            "nombre": "Tulum",
+            "lat": 20.2114,
+            "lng": -87.4654
+        },
+        {
+            "categoria": "Playa",
+            "nombre": "Isla Mujeres",
+            "lat": 21.2311,
+            "lng": -86.745
+        },
+        {
+            "categoria": "Playa",
+            "nombre": "Campeche",
+            "lat": 19.8301,
+            "lng": -90.5349
+        },
+        {
+            "categoria": "Playa",
+            "nombre": "Celestún",
+            "lat": 20.8667,
+            "lng": -90.3833
+        },
+        {
+            "categoria": "Zona Arqueológica",
+            "nombre": "Chichén Itzá",
+            "lat": 20.6843,
+            "lng": -88.5678
+        },
+        {
+            "categoria": "Zona Arqueológica",
+            "nombre": "Uxmal",
+            "lat": 20.3597,
+            "lng": -89.7717
+        },
+        {
+            "categoria": "Zona Arqueológica",
+            "nombre": "Cobá",
+            "lat": 20.495,
+            "lng": -87.734
+        },
+        {
+            "categoria": "Zona Arqueológica",
+            "nombre": "Ek Balam",
+            "lat": 21.15,
+            "lng": -88.0833
+        },
+        {
+            "categoria": "Zona Arqueológica",
+            "nombre": "Edzná",
+            "lat": 19.595,
+            "lng": -90.2333
+        },
+        {
+            "categoria": "Zona Arqueológica",
+            "nombre": "Mayapán",
+            "lat": 20.6333,
+            "lng": -89.4667
+        },
+        {
+            "categoria": "Zona Arqueológica",
+            "nombre": "Tulum Ruinas",
+            "lat": 20.2145,
+            "lng": -87.4292
+        },
+        {
+            "categoria": "Montaña",
+            "nombre": "Puuc",
+            "lat": 20.3,
+            "lng": -89.5
+        },
+        {
+            "categoria": "Montaña",
+            "nombre": "Sierra Alta",
+            "lat": 19.85,
+            "lng": -89.2
+        },
+        {
+            "categoria": "Montaña",
+            "nombre": "Cerro Benito Juárez",
+            "lat": 20.1,
+            "lng": -88.8
+        },
+        {
+            "categoria": "Montaña",
+            "nombre": "Sierrita de Ticul",
+            "lat": 19.6,
+            "lng": -89.6
+        },
+        {
+            "categoria": "Ciudad",
+            "nombre": "Mérida",
+            "lat": 20.9674,
+            "lng": -89.5926
+        },
+        {
+            "categoria": "Ciudad",
+            "nombre": "Cancún",
+            "lat": 21.1619,
+            "lng": -86.8515
+        },
+        {
+            "categoria": "Ciudad",
+            "nombre": "Campeche",
+            "lat": 19.8301,
+            "lng": -90.5349
+        },
+        {
+            "categoria": "Ciudad",
+            "nombre": "Valladolid",
+            "lat": 20.6896,
+            "lng": -88.2026
+        },
+        {
+            "categoria": "Ciudad",
+            "nombre": "Playa del Carmen",
+            "lat": 20.6296,
+            "lng": -87.0739
+        },
+        {
+            "categoria": "Ciudad",
+            "nombre": "Chetumal",
+            "lat": 18.5001,
+            "lng": -88.296
+        }
+    ]
+}
